@@ -1,12 +1,14 @@
 class Solution {
 public:
-    int fibo(int n){
-        if(n==1 || n==2 ) return 1;
-        
-        return fibo(n-1) + fibo(n-2);
-    }
     int fib(int n) {
-        if(n==0) return 0;
-        return fibo(n);
+    int sum=0;
+    int a=0,b=1;
+    for(int i=1;i<n;i++){
+        sum = a+b;
+        a=b;
+        b=sum;
+    }
+    if(n==1) return 1;
+    else return sum;
     }
 };
