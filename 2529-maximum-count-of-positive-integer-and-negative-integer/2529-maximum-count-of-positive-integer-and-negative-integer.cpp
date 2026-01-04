@@ -1,15 +1,34 @@
 class Solution {
 public:
     int maximumCount(vector<int>& nums) {
-        int ne=0;
-        int po=0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==0) continue;
-            if(nums[i]>0) po++;
-            else ne++;
+     int n = nums.size();
+     int pos = 0,neg = 0;
+     int lo=0;
+     int hi = n-1;
+     while(lo<=hi){
+        int mid = lo +(hi-lo)/2;
+        if(nums[mid]<=0) lo = mid+1;
+        else{  //mid[mid]>0
+            if(mid>0 && nums[mid-1]>0) hi = mid-1;
+            else{
+                pos = n-mid;
+                break;
+            }
         }
-        if(po==ne) return po;
-        else if(po>ne) return po;
-        else return ne;
+     }
+     lo = 0;
+     hi = n-1;
+      while(lo<=hi){
+        int mid = lo +(hi-lo)/2;
+        if(nums[mid]>=0) hi = mid-1;
+        else{  //mid[mid]>0
+            if(mid+1<n && nums[mid+1]<0) lo = mid+1;
+            else{
+                neg = mid+1;
+                break;
+            }
+        }
+     }
+     return max(pos,neg);
     }
 };
