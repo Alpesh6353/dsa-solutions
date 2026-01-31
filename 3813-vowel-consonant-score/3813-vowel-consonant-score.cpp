@@ -7,7 +7,7 @@ public:
             if(s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u'){
                 vow++;
             }
-            else if(s[i]==' ' || s[i]>'0' && s[i]<'9') continue;
+            else if(s[i]==' ' || s[i]>='0' && s[i]<='9') continue;
             else cons++;
         }
         if(cons==0) return 0;
