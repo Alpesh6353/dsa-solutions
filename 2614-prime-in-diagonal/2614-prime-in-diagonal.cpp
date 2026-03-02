@@ -1,25 +1,23 @@
 class Solution {
 public:
-int prime(int n){
-    if(n==1) return 0;
+bool isPrime(int n){
+    if(n==1) return false;
     for(int i=2;i<=sqrt(n);i++){
-        if(n%i==0) return 0;
+        if(n%i==0) return false;
     }
-    return n;
+    return true;
 }
     int diagonalPrime(vector<vector<int>>& nums) {
         int n = nums.size();
-        int m = nums[0].size();
-        int maxpr = 0;
+        int mx = 0;
         for(int i=0;i<n;i++){
-            int maxd = 0;
-            for(int j=0;j<m;j++){
-                if(i==j || i+j==n-1 ){
-                    maxd = prime(nums[i][j]);
-                    maxpr = max(maxd,maxpr);
-                }
+            if(isPrime(nums[i][i])){
+                mx = max(mx,nums[i][i]);
+            }
+            if(isPrime(nums[i][n-i-1])){
+                mx = max(mx,nums[i][n-i-1]);
             }
         }
-        return maxpr;
+    return mx;
     }
 };
