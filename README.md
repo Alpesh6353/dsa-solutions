@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0507-perfect-number/) | Easy |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -19,5 +20,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 <!---LeetCode Topics End-->
