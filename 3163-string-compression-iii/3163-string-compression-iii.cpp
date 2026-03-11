@@ -12,10 +12,12 @@ public:
                 i++;
             }
             while(count>9){
-                s += (to_string(9) + ch);
+                s += (to_string(9));
+                s += ch;
                 count -= 9;
             }
-            s += (to_string(count) + ch);
+            s += (to_string(count));
+            s += ch;
             i++;
         }
         return s;
