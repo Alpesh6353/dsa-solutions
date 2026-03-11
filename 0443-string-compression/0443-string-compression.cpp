@@ -11,10 +11,8 @@ public:
                 count++;
                 i++;
             }
-            if(count==1){
-                s += ch;
-            }
-            else s += (ch + to_string(count));
+            s += ch;
+            if(count > 1) s += to_string(count);
             i++;
         }
         for(int i=0;i<s.length();i++){
