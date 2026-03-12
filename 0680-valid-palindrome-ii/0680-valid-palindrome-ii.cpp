@@ -12,7 +12,6 @@ bool check(string &s, int i, int j){
         int n = s.length();
         int i=0;
         int j=n-1;
-        int k=0;
         while(i<j){
             if(s[i]==s[j]){
                 i++;
