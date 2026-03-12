@@ -52,10 +52,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Alpesh6353/dsa-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/Alpesh6353/dsa-solutions/tree/main/0443-string-compression/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Alpesh6353/dsa-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/Alpesh6353/dsa-solutions/tree/main/0443-string-compression/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3163-string-compression-iii](https://github.com/Alpesh6353/dsa-solutions/tree/main/3163-string-compression-iii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
