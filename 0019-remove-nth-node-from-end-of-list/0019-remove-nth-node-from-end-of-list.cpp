@@ -17,7 +17,9 @@ public:
             len++;
             temp = temp->next;
         }
-        int idx = len - n;
+        // nth from end = (len-n+1)th from start
+        int m = len - n + 1 ;
+        int idx = len - n; // the idx of node to be deleted
         if(idx==0){
             head = head->next;
             return head;
@@ -26,8 +28,8 @@ public:
         for(int i=1;i<=idx-1;i++){
             t = t->next;
         }
-        if(idx==len-1) t->next = NULL;
-        else t->next = t->next->next;
+        // if(idx==len-1) t->next = NULL;
+        t->next = t->next->next;
         return head;
     }
 };
