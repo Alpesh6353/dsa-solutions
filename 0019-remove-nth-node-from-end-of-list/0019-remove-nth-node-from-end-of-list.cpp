@@ -17,19 +17,15 @@ public:
             len++;
             temp = temp->next;
         }
-        // nth from end = (len-n+1)th from start
-        int m = len - n + 1 ;
-        int idx = len - n; // the idx of node to be deleted
-        if(idx==0){
+        if(n==len) {
             head = head->next;
             return head;
         }
-        ListNode* t = head;
-        for(int i=1;i<=idx-1;i++){
-            t = t->next;
+        temp = head;
+        for(int i=1;i<len-n;i++){
+            temp = temp->next;
         }
-        // if(idx==len-1) t->next = NULL;
-        t->next = t->next->next;
+        temp->next = temp->next->next;
         return head;
     }
 };
