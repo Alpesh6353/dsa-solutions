@@ -19,7 +19,7 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        if(pre==NULL) return head = head->next; 
+        if(pre==NULL) return head->next; 
         pre->next = pre->next->next;
         return head;
     }
