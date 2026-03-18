@@ -8,7 +8,6 @@ public:
             len1++;
             t1 = t1->next;
         }
-
         ListNode* t2 = headB;
         int len2 = 0;
         while(t2 != NULL){
@@ -36,12 +35,8 @@ public:
             head1 = head1->next;
             head2 = head2->next;
             }
-            else{
-                 flag = true;
-                 break;
-                 }
+            else  return head1;
         }
-        if(flag==true) return head1;
-        else return NULL;
+        return NULL;
     }
 };
