@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Alpesh6353/dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Alpesh6353/dsa-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Alpesh6353/dsa-solutions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3163-string-compression-iii](https://github.com/Alpesh6353/dsa-solutions/tree/main/3163-string-compression-iii/) | Medium |
@@ -90,4 +92,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Alpesh6353/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
