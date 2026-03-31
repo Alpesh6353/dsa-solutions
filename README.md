@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -105,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
