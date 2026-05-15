@@ -8,9 +8,7 @@ public:
             if(events[i]=="W") y++;
             else if(events[i]=="WD" || events[i]=="NB") x++;
             else {
-                string s = events[i];
-                int a = stoi(s);
-                x = x+a;
+                x = x+stoi(events[i]);
 
             }
             if(y==10) break;
