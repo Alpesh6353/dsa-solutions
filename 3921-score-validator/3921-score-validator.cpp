@@ -9,8 +9,7 @@ public:
                 y++;
                 if(y==10) break;
                 }
-            else if(events[i]=="WD") x++;
-            else if(events[i]=="NB") x++;
+            else if(events[i]=="WD" || events[i]=="NB") x++;
             else {
                 string s = events[i];
                 int a = stoi(s);
