@@ -15,9 +15,9 @@ public:
             }
             if(y==10) break;
         }
-        vector<int> v(2);
-        v[0] = x;
-        v[1] = y;
+        vector<int> v;
+        v.push_back(x);
+        v.push_back(y);
         return v;
     }
 };
