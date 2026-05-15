@@ -5,10 +5,7 @@ public:
         int x = 0;  //score
         int y = 0;  //count
         for(int i=0;i<n;i++){
-            if(events[i]=="W"){
-                y++;
-                if(y==10) break;
-                }
+            if(events[i]=="W") y++;
             else if(events[i]=="WD" || events[i]=="NB") x++;
             else {
                 string s = events[i];
@@ -16,6 +13,7 @@ public:
                 x = x+a;
 
             }
+            if(y==10) break;
         }
         vector<int> v(2);
         v[0] = x;
