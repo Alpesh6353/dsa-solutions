@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/Alpesh6353/dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0507-perfect-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Alpesh6353/dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
