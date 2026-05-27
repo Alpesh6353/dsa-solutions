@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Alpesh6353/dsa-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -85,12 +86,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Alpesh6353/dsa-solutions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3163-string-compression-iii](https://github.com/Alpesh6353/dsa-solutions/tree/main/3163-string-compression-iii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Alpesh6353/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
