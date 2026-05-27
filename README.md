@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Alpesh6353/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/Alpesh6353/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alpesh6353/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Alpesh6353/dsa-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alpesh6353/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
