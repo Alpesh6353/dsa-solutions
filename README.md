@@ -143,10 +143,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Alpesh6353/dsa-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Alpesh6353/dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Alpesh6353/dsa-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
