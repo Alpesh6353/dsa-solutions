@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3163-string-compression-iii](https://github.com/Alpesh6353/dsa-solutions/tree/main/3163-string-compression-iii/) | Medium |
+| [3931-check-adjacent-digit-differences](https://github.com/Alpesh6353/dsa-solutions/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
