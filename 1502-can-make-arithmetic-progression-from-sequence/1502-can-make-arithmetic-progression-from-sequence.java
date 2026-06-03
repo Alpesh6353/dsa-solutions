@@ -4,7 +4,7 @@ class Solution {
         Arrays.sort(arr);
         int d = arr[1] - arr[0];
         for(int i=2;i<n;i++){
-            if(d !=(arr[i]-arr[i-1])) return false;
+            if((arr[i]-arr[i-1]) != d) return false;
         }
         return true;
     }
