@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Alpesh6353/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alpesh6353/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Alpesh6353/dsa-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
