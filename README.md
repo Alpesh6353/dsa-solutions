@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Alpesh6353/dsa-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Alpesh6353/dsa-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 ## Enumeration
