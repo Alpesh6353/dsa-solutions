@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1313-decompress-run-length-encoded-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Alpesh6353/dsa-solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Alpesh6353/dsa-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Alpesh6353/dsa-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -183,5 +186,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Alpesh6353/dsa-solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 <!---LeetCode Topics End-->
