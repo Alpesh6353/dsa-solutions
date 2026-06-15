@@ -7,9 +7,7 @@ class Solution {
             if(candies[i]>max) max = candies[i];
         }
         for(int i=0;i<n;i++){
-            int c = extraCandies+candies[i];
-            if(c>=max) arr.add(true);
-            else arr.add(false);
+            arr.add(candies[i]+extraCandies >= max);
         }
         return arr;
     }
