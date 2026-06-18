@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Alpesh6353/dsa-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Alpesh6353/dsa-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Alpesh6353/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Alpesh6353/dsa-solutions/tree/main/0881-boats-to-save-people/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Alpesh6353/dsa-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
