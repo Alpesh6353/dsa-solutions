@@ -10,8 +10,10 @@ class Solution {
             i++;
             j++;
         }
-        Arrays.sort(arr);
-        if(arr[n]>0) return arr[n];
-        else return 0;
+       int max = Integer.MIN_VALUE;
+       for(int k=0;k<=n;k++){
+        if(arr[k]>max) max = arr[k];
+       }
+       return max;
     }
 }
