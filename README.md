@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Alpesh6353/dsa-solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Alpesh6353/dsa-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Alpesh6353/dsa-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Alpesh6353/dsa-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Alpesh6353/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
