@@ -8,7 +8,6 @@ public:
         }
         int m = queries.size();
         vector<int> ans;
-        int j = 0;
         for(int i=0;i<m;i++){
             if(queries[i]<=v.size()){
                 ans.push_back(v[queries[i]-1]);
