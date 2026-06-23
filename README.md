@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Alpesh6353/dsa-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Alpesh6353/dsa-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3917-count-indices-with-opposite-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Math
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Alpesh6353/dsa-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Alpesh6353/dsa-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
