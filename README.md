@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Alpesh6353/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/Alpesh6353/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/Alpesh6353/dsa-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Alpesh6353/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Alpesh6353/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alpesh6353/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Alpesh6353/dsa-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Alpesh6353/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/0258-add-digits/) | Easy |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Alpesh6353/dsa-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Alpesh6353/dsa-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
