@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Alpesh6353/dsa-solutions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0796-rotate-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -260,4 +261,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Alpesh6353/dsa-solutions/tree/main/1051-height-checker/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
