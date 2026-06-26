@@ -2,30 +2,34 @@ class Solution {
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
-        int[] ar = new int[m];
-        int[] ac = new int[n];
+        boolean flagr = false;
+        boolean flagc = false;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(matrix[i][j]==0){
-                    ar[i] = 1;
-                    ac[j] = 1;
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
+                    if(i==0) flagr = true;
+                    if(j==0) flagc = true;
                 }
             }
         }
-        for(int i=0;i<m;i++){
-            if(ar[i]==1){
-                for(int k=0;k<n;k++){
-                    matrix[i][k]=0;
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                if(matrix[i][0]==0 || matrix[0][j]==0){
+                    matrix[i][j]=0;
                 }
             }
         }
-        for(int i=0;i<n;i++){
-            if(ac[i]==1){
-                for(int k=0;k<m;k++){
-                    matrix[k][i]=0;
-                }
+        if(flagr==true){
+            for(int i=0;i<n;i++){
+                matrix[0][i]=0;
             }
         }
-
+        if(flagc==true){
+            for(int i=0;i<m;i++){
+                matrix[i][0]=0;
+            }
+        }
     }
 }
