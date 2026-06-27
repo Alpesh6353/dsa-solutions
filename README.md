@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/Alpesh6353/dsa-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Alpesh6353/dsa-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Alpesh6353/dsa-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Alpesh6353/dsa-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/Alpesh6353/dsa-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
