@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1051-height-checker](https://github.com/Alpesh6353/dsa-solutions/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Alpesh6353/dsa-solutions/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
