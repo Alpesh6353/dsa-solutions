@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Alpesh6353/dsa-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Alpesh6353/dsa-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Alpesh6353/dsa-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Alpesh6353/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Alpesh6353/dsa-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Alpesh6353/dsa-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
