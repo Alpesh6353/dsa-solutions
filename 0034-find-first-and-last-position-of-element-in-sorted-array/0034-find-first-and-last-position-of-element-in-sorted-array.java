@@ -8,34 +8,20 @@ class Solution {
         int b = -1;
         while(lo<=hi){
             int mid = lo + (hi-lo)/2;
-            if(mid==0 && nums[mid]==target){
-                a = mid;
-                break;
-            }
-            else if(nums[mid]==target){
-                if(nums[mid-1]==target) hi = mid-1;
-                else {
+            if(nums[mid]==target){
                     a = mid;
-                    break;
-                }
+                    hi = mid-1;
             }
-                else if(nums[mid]>target) hi = mid-1;
-                else lo = mid+1;
+            else if(nums[mid]>target) hi = mid-1;
+            else lo = mid+1;
         }
         lo=0;
         hi=n-1;
         while(lo<=hi){
             int mid = lo + (hi-lo)/2;
-            if(mid==n-1 && nums[mid]==target){
-                b = mid;
-                break;
-            }
-            else if(nums[mid]==target){
-                if(nums[mid+1]==target) lo = mid+1;
-                else {
+            if(nums[mid]==target){
+                    lo = mid+1;
                     b = mid;
-                    break;
-                }
             }
                 else if(nums[mid]>target) hi = mid-1;
                 else lo = mid+1;
