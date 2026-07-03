@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alpesh6353/dsa-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Alpesh6353/dsa-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alpesh6353/dsa-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Alpesh6353/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Alpesh6353/dsa-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Alpesh6353/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Alpesh6353/dsa-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Sorting
