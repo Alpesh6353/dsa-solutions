@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alpesh6353/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Alpesh6353/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Alpesh6353/dsa-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Alpesh6353/dsa-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Alpesh6353/dsa-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Alpesh6353/dsa-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
