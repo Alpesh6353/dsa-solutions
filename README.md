@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Alpesh6353/dsa-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Alpesh6353/dsa-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
