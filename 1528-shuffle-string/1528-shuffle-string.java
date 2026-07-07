@@ -2,16 +2,10 @@ class Solution {
     public String restoreString(String s, int[] indices) {
         int n = s.length();
         String ans = "";
-        String[] arr = new String[n];
+        char[] ch = new char[n];
         for(int i=0;i<n;i++){
-            char ch = s.charAt(i);
-            ans += ch;
-            arr[indices[i]] = ans;
-            ans = "";
+           ch[indices[i]] = s.charAt(i);
         }
-        for(int i=0;i<n;i++){
-            ans += arr[i];
-        }
-        return ans;
+        return new String(ch);
     }
 }
