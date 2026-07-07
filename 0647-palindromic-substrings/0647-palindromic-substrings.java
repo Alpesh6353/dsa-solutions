@@ -15,8 +15,6 @@ class Solution {
                 }
                 else break;
             }
-        }
-        for(int i=0;i<n;i++){
             j=i;
             k=i+1;
             while(j>=0 && k<n){
