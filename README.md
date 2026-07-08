@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Alpesh6353/dsa-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2951-find-the-peaks](https://github.com/Alpesh6353/dsa-solutions/tree/main/2951-find-the-peaks/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Alpesh6353/dsa-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
+| [2951-find-the-peaks](https://github.com/Alpesh6353/dsa-solutions/tree/main/2951-find-the-peaks/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
