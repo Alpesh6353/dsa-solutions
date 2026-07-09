@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Alpesh6353/dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Alpesh6353/dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/Alpesh6353/dsa-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Alpesh6353/dsa-solutions/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Alpesh6353/dsa-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Alpesh6353/dsa-solutions/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Alpesh6353/dsa-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Alpesh6353/dsa-solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/Alpesh6353/dsa-solutions/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/Alpesh6353/dsa-solutions/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Alpesh6353/dsa-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
