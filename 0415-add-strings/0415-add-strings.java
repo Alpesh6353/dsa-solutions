@@ -6,7 +6,6 @@ class Solution {
         int i=n-1;
         int j=m-1;
         char ch1;
-        char ch2;
         int x = 0;
         while(i>=0 && j>=0){
             ch1 = num1.charAt(i);
