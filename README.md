@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/Alpesh6353/dsa-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/Alpesh6353/dsa-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Alpesh6353/dsa-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Alpesh6353/dsa-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
