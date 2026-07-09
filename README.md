@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Alpesh6353/dsa-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1816-truncate-sentence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Alpesh6353/dsa-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Alpesh6353/dsa-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1816-truncate-sentence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Alpesh6353/dsa-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
