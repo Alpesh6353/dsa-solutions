@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Alpesh6353/dsa-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Alpesh6353/dsa-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1108-defanging-an-ip-address](https://github.com/Alpesh6353/dsa-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Alpesh6353/dsa-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Alpesh6353/dsa-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
