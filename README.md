@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-goat-latin](https://github.com/Alpesh6353/dsa-solutions/tree/main/0824-goat-latin/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Alpesh6353/dsa-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1507-reformat-date](https://github.com/Alpesh6353/dsa-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Alpesh6353/dsa-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Alpesh6353/dsa-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
