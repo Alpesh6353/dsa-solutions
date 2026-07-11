@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/Alpesh6353/dsa-solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Alpesh6353/dsa-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/Alpesh6353/dsa-solutions/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Alpesh6353/dsa-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
