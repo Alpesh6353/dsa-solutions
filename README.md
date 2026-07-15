@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/Alpesh6353/dsa-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3163-string-compression-iii](https://github.com/Alpesh6353/dsa-solutions/tree/main/3163-string-compression-iii/) | Medium |
 | [3931-check-adjacent-digit-differences](https://github.com/Alpesh6353/dsa-solutions/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/Alpesh6353/dsa-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
