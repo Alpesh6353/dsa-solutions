@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Alpesh6353/dsa-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0824-goat-latin](https://github.com/Alpesh6353/dsa-solutions/tree/main/0824-goat-latin/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Alpesh6353/dsa-solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1507-reformat-date](https://github.com/Alpesh6353/dsa-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Alpesh6353/dsa-solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0796-rotate-string/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
