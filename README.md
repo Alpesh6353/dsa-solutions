@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Alpesh6353/dsa-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Alpesh6353/dsa-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Alpesh6353/dsa-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Alpesh6353/dsa-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/0258-add-digits/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
