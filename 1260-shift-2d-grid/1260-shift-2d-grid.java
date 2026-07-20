@@ -3,6 +3,7 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
         List<List<Integer>> ans = new ArrayList();
+        if(k>=m*n) k = k%(m*n);
         while(k>0){
             int temp = grid[m-1][n-1];
             for(int i=m-1;i>=0;i--){
