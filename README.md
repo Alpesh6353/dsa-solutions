@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Alpesh6353/dsa-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Alpesh6353/dsa-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1816-truncate-sentence](https://github.com/Alpesh6353/dsa-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Alpesh6353/dsa-solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Alpesh6353/dsa-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Alpesh6353/dsa-solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Alpesh6353/dsa-solutions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Alpesh6353/dsa-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/Alpesh6353/dsa-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Alpesh6353/dsa-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Recursion
