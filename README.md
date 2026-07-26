@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Alpesh6353/dsa-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Alpesh6353/dsa-solutions/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
