@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Alpesh6353/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Alpesh6353/dsa-solutions/tree/main/0575-distribute-candies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Alpesh6353/dsa-solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Alpesh6353/dsa-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/Alpesh6353/dsa-solutions/tree/main/0415-add-strings/) | Easy |
 | [0507-perfect-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1025-divisor-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/1025-divisor-game/) | Easy |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Alpesh6353/dsa-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Alpesh6353/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Alpesh6353/dsa-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Alpesh6353/dsa-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
