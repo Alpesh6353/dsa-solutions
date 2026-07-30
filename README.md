@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Alpesh6353/dsa-solutions/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/Alpesh6353/dsa-solutions/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Alpesh6353/dsa-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Alpesh6353/dsa-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Alpesh6353/dsa-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Alpesh6353/dsa-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3163-string-compression-iii](https://github.com/Alpesh6353/dsa-solutions/tree/main/3163-string-compression-iii/) | Medium |
 | [3931-check-adjacent-digit-differences](https://github.com/Alpesh6353/dsa-solutions/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Greedy
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/Alpesh6353/dsa-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Alpesh6353/dsa-solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Alpesh6353/dsa-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
