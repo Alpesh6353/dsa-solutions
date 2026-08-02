@@ -6,9 +6,15 @@ class Solution {
             int x = 0;
             int y = 0;
             for(int j=i;j<n;j++){
-                if(nums[j]%2==0) x++;
-                else y++;
-                if(y>0 && ((double)x/y <= (double)a/b)) count++;
+                if(nums[j]%2==0){
+                     x++;
+                     }
+                else{
+                     y++;
+                     }
+                if(y>0 && ((double)x/y <= (double)a/b)){
+                     count++;
+                     }
             }
         }
         return count;
