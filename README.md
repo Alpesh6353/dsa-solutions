@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/Alpesh6353/dsa-solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Alpesh6353/dsa-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Alpesh6353/dsa-solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0877-stone-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1025-divisor-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Alpesh6353/dsa-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Alpesh6353/dsa-solutions/tree/main/0650-2-keys-keyboard/) | Medium |
+| [0877-stone-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Two Pointers
@@ -420,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/1025-divisor-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -429,4 +433,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Alpesh6353/dsa-solutions/tree/main/0175-combine-two-tables/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
