@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3232-find-if-digit-game-can-be-won](https://github.com/Alpesh6353/dsa-solutions/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Alpesh6353/dsa-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3731-find-missing-elements](https://github.com/Alpesh6353/dsa-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Alpesh6353/dsa-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/Alpesh6353/dsa-solutions/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 ## Math
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Alpesh6353/dsa-solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3731-find-missing-elements](https://github.com/Alpesh6353/dsa-solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Alpesh6353/dsa-solutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Alpesh6353/dsa-solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Alpesh6353/dsa-solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/Alpesh6353/dsa-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Alpesh6353/dsa-solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
