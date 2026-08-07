@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Alpesh6353/dsa-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/Alpesh6353/dsa-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Alpesh6353/dsa-solutions/tree/main/0066-plus-one/) | Easy |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0061-rotate-list/) | Medium |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Alpesh6353/dsa-solutions/tree/main/0326-power-of-three/) | Easy |
