@@ -455,4 +455,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Alpesh6353/dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
