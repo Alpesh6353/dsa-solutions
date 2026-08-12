@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Alpesh6353/dsa-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Alpesh6353/dsa-solutions/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Alpesh6353/dsa-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Alpesh6353/dsa-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Alpesh6353/dsa-solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Alpesh6353/dsa-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Alpesh6353/dsa-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
