@@ -13,27 +13,19 @@ class Solution {
         if(head == null || head.next == null) return head;
         ListNode temp = head;
         ListNode dummye = new ListNode(0);
-        ListNode dummyo = new ListNode(0);
+        ListNode temp2 = null;
         ListNode even = dummye;
-        ListNode odd = dummyo;
-        int count = 1;
-        while(temp != null){
-            if(count%2==0){
-                even.next = temp;
-                even = even.next;
-            }
-            else {
-                odd.next = temp;
-                odd = odd.next;
-            }
-            count++;
-            temp = temp.next;
+        while(temp != null && temp.next != null){
+           even.next = temp.next;
+           even = even.next;
+           temp.next = temp.next.next;
+           temp2 = temp;
+           temp = temp.next;
         }
-        odd.next = null;
         even.next = null;
         dummye = dummye.next;
-        dummyo = dummyo.next;
-        odd.next = dummye;
-        return dummyo;
+        if(temp != null) temp.next = dummye;
+        else temp2.next = dummye;
+        return head;
     }
 }
