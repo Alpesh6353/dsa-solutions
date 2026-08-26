@@ -30,27 +30,16 @@ class Solution {
         ListNode dummy  = new ListNode(0);
         ListNode temp3 = dummy;
         int carry = 0;
-        while(temp1 != null || temp2 != null){
+        while(temp1 != null || temp2 != null || carry == 1){
             int d1 = temp1 != null ? temp1.val : 0;
             int d2 = temp2 != null ? temp2.val : 0;
-            carry += (d1+d2);
-            if(carry==10){
-                ListNode new_node = new ListNode(carry%10);
-                temp3.next = new_node;
-                carry = 1;
-            }
-            else{
-                ListNode new_node = new ListNode(carry%10);
-                temp3.next = new_node;
-                carry /= 10;
-            }
+            int d = carry + d1+d2 ;
+            carry = d/10;
+            d = d%10;
+            ListNode new_node = new ListNode(d);
+            temp3.next = new_node;
             if(temp1 != null) temp1 = temp1.next;
             if(temp2 != null) temp2 = temp2.next;
-            temp3 = temp3.next;
-        }
-        if(carry != 0){
-            ListNode new_node = new ListNode(carry%10);
-            temp3.next = new_node;
             temp3 = temp3.next;
         }
         return reverse(dummy.next);
