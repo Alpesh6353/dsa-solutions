@@ -21,15 +21,15 @@ class Solution {
             st.push(temp.val);
             temp = temp.next;
         }
-        Stack<Integer> st2 = new Stack<>();
-        while(!st.isEmpty()) st2.push(st.pop());
-        ListNode dummy = new ListNode(0);
+        
+        ListNode dummy = new ListNode(st.peek());
         temp = dummy;
-        while(!st2.isEmpty()){
-            ListNode new_node = new ListNode(st2.pop());
-            temp.next = new_node;
-            temp = temp.next;
+        st.pop();
+        while(!st.isEmpty()){
+            ListNode new_node = new ListNode(st.pop());
+            new_node.next = temp;
+            temp = new_node;
         }
-        return dummy.next;
+        return temp;
     }
 }
