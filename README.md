@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Alpesh6353/dsa-solutions/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Alpesh6353/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Alpesh6353/dsa-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0575-distribute-candies](https://github.com/Alpesh6353/dsa-solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Alpesh6353/dsa-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -492,5 +494,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
