@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Alpesh6353/dsa-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Alpesh6353/dsa-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Alpesh6353/dsa-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Alpesh6353/dsa-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Alpesh6353/dsa-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Alpesh6353/dsa-solutions/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Alpesh6353/dsa-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Alpesh6353/dsa-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Prefix Sum
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Alpesh6353/dsa-solutions/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
