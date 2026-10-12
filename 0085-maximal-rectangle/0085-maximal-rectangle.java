@@ -47,12 +47,9 @@ class Solution {
             }
         }
         int maxm = 0;
-        int[] ans = new int[m];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                ans[j] = Ans[i][j];
-            }
-           int Area = getMaxArea(ans);
+        int Area;
+        for(int[] row : Ans){
+           Area = getMaxArea(row);
            maxm = Math.max(Area,maxm);
         }
         return maxm;
