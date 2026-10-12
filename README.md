@@ -389,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Alpesh6353/dsa-solutions/tree/main/0155-min-stack/) | Medium |
 | [0707-design-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0707-design-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Alpesh6353/dsa-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Alpesh6353/dsa-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/Alpesh6353/dsa-solutions/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Alpesh6353/dsa-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Alpesh6353/dsa-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
